@@ -7,3 +7,7 @@
 
 ## Thoughts from Junhyuk Lee
 <p>Reading the article reminded of Github Copilot, which also was a big topic of discussion for its ability to generate highly efficient codes through simples command from its users. I believe that the rise of such tools implicates just how fast artificial intelligence as a technology is advancing, not just in the field of computer science and software engineering, but in general. Althougth ChatGPT itself doesn't believe AI can replace software engineers, I do wonder whether AI can also learn to replicate the nuances and intricacies of humans as in the unforseeable future.</p>
+
+### A comment from Harry
+I think the message from ChatGPT that it will never be a full replacement, but rather a tool to assist software engineers is accurate. I am
+afraid that the demand from employers to use chatGPT will outpace it's usefulness to developers. 
