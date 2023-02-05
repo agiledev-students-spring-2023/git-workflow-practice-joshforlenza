@@ -11,3 +11,7 @@
 ### A comment from Harry
 I think the message from ChatGPT that it will never be a full replacement, but rather a tool to assist software engineers is accurate. I am
 afraid that the demand from employers to use chatGPT will outpace it's usefulness to developers. 
+
+### Comment from Rohan Khanderia (rk3904) 
+I find it really interesting the way that ChatGPT can solve the same kinds of problems that developers are asked in interview, but I think the interview process is much different from the actual work that developes
+have to do. Due to this, the article mentions how ChatGPT won't be able to replace engineers and I agree with it. I feel like it can be a great help, but not an entire replacement.
